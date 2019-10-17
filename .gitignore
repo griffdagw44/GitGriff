@@ -1,0 +1,7 @@
+*.modules.xml
+*.description.html
+*.project-template.xml
+*.idea
+*.class
+*.iml
+
